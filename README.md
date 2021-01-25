@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-my first data science project using python
+my first data science project using python in cookiecutter template.
 
 Project Organization
 ------------
